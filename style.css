@@ -1,0 +1,42 @@
+ /* ORIGINAL TASK PUPILS STARTED WITH
+Full credit to code.org for task */
+
+img {
+  width: 150px;
+  height: 100px;
+}
+h1{
+  color:#9d6c99;
+  font-family: monospace;
+}
+h4{
+  color:#7a5277;
+  font-family: monospace;
+}
+h3{
+  color: #ff8599;
+  font-family: monospace;
+  letter-spacing: 5px;
+}
+p{
+  font-family: monospace;
+  color: #ff0088;
+  font-size: 15px;
+}
+body{
+  background-color: #ffcce7;
+}
+
+#dog{
+  border: 20px solid;
+   border-image: repeating-linear-gradient(45deg, #f29797, #f0cced, #ff9999 30px) 60;
+}
+
+#turtle{
+  border: 20px solid;
+   border-image: repeating-linear-gradient(45deg, #f4aef2, #cca3c9, #ff9e9e 30px) 60;
+}
+#fish {
+  border: 20px solid;
+   border-image: repeating-linear-gradient(45deg, #9a74a4, #f0cced, #ffadd9 30px) 60;
+}
